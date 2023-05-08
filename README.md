@@ -2,4 +2,4 @@
 
 ![](mass.png)
 
-![]{survival.png)
+![](survival.png)
